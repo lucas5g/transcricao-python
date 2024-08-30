@@ -1,0 +1,3 @@
+transcrever vídeos 
+transcrever vídeos com whisper para demonstração 
+download de vídeo 
