@@ -3,3 +3,5 @@
 *.wav
 *.pyc
 .pytest_cache
+build 
+__pycache__
