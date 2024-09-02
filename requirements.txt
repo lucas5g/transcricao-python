@@ -2,3 +2,10 @@ Flask
 pytest 
 pytest-watch
 SpeechRecognition
+yt-dlp
+flask_swagger_ui
+flasgger
+setuptools 
+flask-restplus
+moviepy 
+flask-swagger

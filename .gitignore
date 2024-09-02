@@ -1,2 +1,5 @@
 *.mp4
 .venv
+*.wav
+*.pyc
+.pytest_cache
